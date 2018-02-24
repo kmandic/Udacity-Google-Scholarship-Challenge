@@ -17,9 +17,8 @@ body > div {
 	background: linear-gradient(to bottom, #bfd255 0%,#8eb92a 65%,#72aa00 100%,#9ecb2d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bfd255', endColorstr='#9ecb2d',GradientType=0 ); /* IE6-9 */
 	/* Centering the card */
-	position: absolute;
-  	left: 50%;
-  	margin-left: -165px;
+	margin-left: auto;
+  	margin-right: auto;
 }
 
 h3 {
